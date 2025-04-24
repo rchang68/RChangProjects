@@ -1,0 +1,11 @@
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\bin\Debug\Ryan-Chang-CPT-185-Lab-9.exe.config
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\bin\Debug\Ryan-Chang-CPT-185-Lab-9.exe
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\bin\Debug\Ryan-Chang-CPT-185-Lab-9.pdb
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan-Chang-CPT-185-Lab-9.csproj.AssemblyReference.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan_Chang_CPT_185_Lab_9.CalculatedPlan.resources
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan_Chang_CPT_185_Lab_9.Form1.resources
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan_Chang_CPT_185_Lab_9.Properties.Resources.resources
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan-Chang-CPT-185-Lab-9.csproj.GenerateResource.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan-Chang-CPT-185-Lab-9.csproj.CoreCompileInputs.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan-Chang-CPT-185-Lab-9.exe
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-9\obj\Debug\Ryan-Chang-CPT-185-Lab-9.pdb
