@@ -1,0 +1,14 @@
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\bin\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.exe
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\bin\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.deps.json
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\bin\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.runtimeconfig.json
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\bin\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.dll
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\bin\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.pdb
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.AssemblyInfoInputs.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.AssemblyInfo.cs
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.csproj.CoreCompileInputs.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.dll
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\refint\Ryan-Chang-CPT-185-lab-6.dll
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.pdb
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\Ryan-Chang-CPT-185-lab-6.genruntimeconfig.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-lab-6\obj\Debug\net8.0\ref\Ryan-Chang-CPT-185-lab-6.dll

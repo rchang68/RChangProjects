@@ -1,0 +1,10 @@
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\bin\Debug\Ryan-Chang-CPT-185-Lab-4.exe.config
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\bin\Debug\Ryan-Chang-CPT-185-Lab-4.exe
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\bin\Debug\Ryan-Chang-CPT-185-Lab-4.pdb
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\obj\Debug\Ryan-Chang-CPT-185-Lab-4.csproj.AssemblyReference.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\obj\Debug\Ryan_Chang_CPT_185_Lab_4.Form1.resources
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\obj\Debug\Ryan_Chang_CPT_185_Lab_4.Properties.Resources.resources
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\obj\Debug\Ryan-Chang-CPT-185-Lab-4.csproj.GenerateResource.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\obj\Debug\Ryan-Chang-CPT-185-Lab-4.csproj.CoreCompileInputs.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\obj\Debug\Ryan-Chang-CPT-185-Lab-4.exe
+C:\Users\NotRyan\source\repos\Ryan-Chang-CPT-185-Lab-4\obj\Debug\Ryan-Chang-CPT-185-Lab-4.pdb
