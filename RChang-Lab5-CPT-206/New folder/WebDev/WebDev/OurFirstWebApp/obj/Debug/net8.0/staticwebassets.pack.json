@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MrNattyDread\\source\\repos\\OurFirstWebApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OurFirstWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OurFirstWebApp.props",
+      "PackagePath": "build\\OurFirstWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OurFirstWebApp.props",
+      "PackagePath": "buildMultiTargeting\\OurFirstWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OurFirstWebApp.props",
+      "PackagePath": "buildTransitive\\OurFirstWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

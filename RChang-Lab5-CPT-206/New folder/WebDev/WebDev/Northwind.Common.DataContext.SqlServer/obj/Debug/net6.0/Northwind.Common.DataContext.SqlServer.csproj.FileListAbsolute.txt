@@ -1,0 +1,6 @@
+C:\Users\MrNattyDread\source\repos\cs10dotnet6\vs4win\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\MrNattyDread\source\repos\cs10dotnet6\vs4win\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrNattyDread\source\repos\cs10dotnet6\vs4win\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\MrNattyDread\source\repos\cs10dotnet6\vs4win\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\MrNattyDread\source\repos\cs10dotnet6\vs4win\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\MrNattyDread\source\repos\cs10dotnet6\vs4win\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.sourcelink.json

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "wB7QXFqtfu+hOJNPcN54eXd0EWbsOZ77f1ldJss6Oqs=",
+  "Source": "OurFirstWebApp",
+  "BasePath": "_content/OurFirstWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OurFirstWebApp\\wwwroot",
+      "Source": "OurFirstWebApp",
+      "ContentRoot": "C:\\Users\\MrNattyDread\\source\\repos\\OurFirstWebApp\\wwwroot\\",
+      "BasePath": "_content/OurFirstWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MrNattyDread\\source\\repos\\OurFirstWebApp\\wwwroot\\index.html",
+      "SourceId": "OurFirstWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MrNattyDread\\source\\repos\\OurFirstWebApp\\wwwroot\\",
+      "BasePath": "_content/OurFirstWebApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

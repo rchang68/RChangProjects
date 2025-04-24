@@ -1,0 +1,6 @@
+@RChangLab5_CPT_206_HostAddress = http://localhost:5068
+
+GET {{RChangLab5_CPT_206_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
