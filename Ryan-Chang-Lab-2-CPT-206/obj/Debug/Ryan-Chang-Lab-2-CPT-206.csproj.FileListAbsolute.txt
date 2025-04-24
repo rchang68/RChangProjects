@@ -1,0 +1,12 @@
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\bin\Debug\CityDB.mdf
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\bin\Debug\CityDB_log.ldf
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\bin\Debug\Ryan-Chang-Lab-2-CPT-206.exe.config
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\bin\Debug\Ryan-Chang-Lab-2-CPT-206.exe
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\bin\Debug\Ryan-Chang-Lab-2-CPT-206.pdb
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\obj\Debug\Ryan-Chang-Lab-2-CPT-206.csproj.AssemblyReference.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\obj\Debug\Ryan_Chang_Lab_2_CPT_206.lab2.resources
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\obj\Debug\Ryan_Chang_Lab_2_CPT_206.Properties.Resources.resources
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\obj\Debug\Ryan-Chang-Lab-2-CPT-206.csproj.GenerateResource.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\obj\Debug\Ryan-Chang-Lab-2-CPT-206.csproj.CoreCompileInputs.cache
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\obj\Debug\Ryan-Chang-Lab-2-CPT-206.exe
+C:\Users\NotRyan\source\repos\Ryan-Chang-Lab-2-CPT-206\obj\Debug\Ryan-Chang-Lab-2-CPT-206.pdb
