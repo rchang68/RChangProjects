@@ -1,0 +1,11 @@
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\bin\Debug\net8.0\RChang-Lab-4-CPT206.deps.json
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\bin\Debug\net8.0\RChang-Lab-4-CPT206.dll
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\bin\Debug\net8.0\RChang-Lab-4-CPT206.pdb
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\RChang-Lab-4-CPT206.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\RChang-Lab-4-CPT206.AssemblyInfoInputs.cache
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\RChang-Lab-4-CPT206.AssemblyInfo.cs
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\RChang-Lab-4-CPT206.csproj.CoreCompileInputs.cache
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\RChang-Lab-4-CPT206.dll
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\refint\RChang-Lab-4-CPT206.dll
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\RChang-Lab-4-CPT206.pdb
+C:\Users\NotRyan\source\repos\RChang-Lab-4-CPT206\obj\Debug\net8.0\ref\RChang-Lab-4-CPT206.dll

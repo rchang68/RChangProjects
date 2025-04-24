@@ -1,0 +1,11 @@
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\bin\Debug\RChang-Lab-3-CPT-206.exe.config
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\bin\Debug\RChang-Lab-3-CPT-206.exe
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\bin\Debug\RChang-Lab-3-CPT-206.pdb
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang-Lab-3-CPT-206.csproj.AssemblyReference.cache
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang_Lab_3_CPT_206.StateInformation.resources
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang_Lab_3_CPT_206.Properties.Resources.resources
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang-Lab-3-CPT-206.csproj.GenerateResource.cache
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang-Lab-3-CPT-206.csproj.CoreCompileInputs.cache
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang-Lab-3-CPT-206.exe
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang-Lab-3-CPT-206.pdb
+C:\Users\NotRyan\source\repos\RChang-Lab-3-CPT-206\obj\Debug\RChang_Lab_3_CPT_206.detailFrm.resources

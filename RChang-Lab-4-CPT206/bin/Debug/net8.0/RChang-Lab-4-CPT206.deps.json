@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RChang-Lab-4-CPT206/1.0.0": {
+        "runtime": {
+          "RChang-Lab-4-CPT206.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RChang-Lab-4-CPT206/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
