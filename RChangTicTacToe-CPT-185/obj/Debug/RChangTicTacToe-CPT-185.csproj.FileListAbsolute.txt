@@ -1,0 +1,10 @@
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\bin\Debug\RChangTicTacToe-CPT-185.exe.config
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\bin\Debug\RChangTicTacToe-CPT-185.exe
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\bin\Debug\RChangTicTacToe-CPT-185.pdb
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\obj\Debug\RChangTicTacToe-CPT-185.csproj.AssemblyReference.cache
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\obj\Debug\RChangTicTacToe_CPT_185.Form1.resources
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\obj\Debug\RChangTicTacToe_CPT_185.Properties.Resources.resources
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\obj\Debug\RChangTicTacToe-CPT-185.csproj.GenerateResource.cache
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\obj\Debug\RChangTicTacToe-CPT-185.csproj.CoreCompileInputs.cache
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\obj\Debug\RChangTicTacToe-CPT-185.exe
+C:\Users\NotRyan\source\repos\RChangTicTacToe-CPT-185\obj\Debug\RChangTicTacToe-CPT-185.pdb
